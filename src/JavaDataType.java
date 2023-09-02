@@ -3,7 +3,7 @@ import java.util.List;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
-public class Main {
+public class JavaDataType {
     public static void main(String[] args) {
 
         // primitive types
@@ -81,7 +81,7 @@ public class Main {
 
         numbers.add(1);
         numbers.contains(1);
-        numbers.remove(1);
+        numbers.remove(0);
         int size = numbers.size();
 
         int[] nums = {1, 2, 3, 4, 5};
