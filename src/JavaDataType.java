@@ -74,8 +74,8 @@ public class JavaDataType {
         System.out.println("John & John is the same (==): " + isSame11); // true
         System.out.println("John & John (as new String) is the same (==): " + isSame12); // false
 
-        System.out.println("John & john is the same (equals): " + isSame2); // false
-        System.out.println("John & john is the same (equalsIgnoreCase): " + isSame3); // true
+        System.out.println("John & john is the same (equals) : " + isSame2); // false
+        System.out.println("John & john is the same (equalsIgnoreCase) : " + isSame3); // true
 
         List<Integer> numbers = new ArrayList<>();
 
